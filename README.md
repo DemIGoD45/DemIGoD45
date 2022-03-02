@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Demian</h1>
-- 🔭 I’m currently working on [VideoGames Project](https://github.com/DemIGoD45/PI-VideoGames)
+- 🔭 I’m currently working on <a href="https://github.com/DemIGoD45/PI-VideoGames" target="blank"> VideoGames Project </a>
 
 - 🌱 I’m currently learning **TypeScript, MongoDB & Prisma**
 
