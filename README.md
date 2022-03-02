@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Demian</h1>
 
 - 🔭 I’m currently working on [VideoGames Project](https://github.com/DemIGoD45/PI-VideoGames)
 
